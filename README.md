@@ -1,2 +1,2 @@
-# T_first_try
+# Notification
 It's creator's personal first try of Github
